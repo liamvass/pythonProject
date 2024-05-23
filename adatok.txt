@@ -1,0 +1,3 @@
+nev: Vass Liam
+szak: Gazdasaginformatikus
+neptun-kod: DNMOGO
